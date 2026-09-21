@@ -1,0 +1,17 @@
+# --- CACHE & IDE ---
+__pycache__/
+*.py[cod]
+*.spec
+.DS_Store
+.idea/
+.vscode/
+
+# --- ENV & SECRETS ---
+.env
+*.env
+config.json
+
+# --- VIRTUAL ENV ---
+venv/
+.venv/
+env/
